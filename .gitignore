@@ -5,3 +5,5 @@ build
 video
 out
 allure-results
+gradlew
+gradlew.bat
