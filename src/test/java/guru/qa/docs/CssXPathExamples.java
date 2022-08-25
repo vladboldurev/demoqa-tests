@@ -1,4 +1,4 @@
-package guru.qa;
+package guru.qa.docs;
 
 import org.openqa.selenium.By;
 

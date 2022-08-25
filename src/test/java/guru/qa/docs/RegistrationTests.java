@@ -1,4 +1,4 @@
-package guru.qa;
+package guru.qa.docs;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;
